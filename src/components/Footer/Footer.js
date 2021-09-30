@@ -17,23 +17,25 @@ const Footer = () => {
           <LinkItem href = 'mailto:barmilitary@yahoo.com'>barmilitary@yahoo.com</LinkItem>
         </LinkColumn>
       </LinkList>
-      <SocialContainer>
+      <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>Tech solutions made easy</Slogan>
         </CompanyContainer>
-        <SocialIcons href = 'https://github.com/movelop'>
-          <AiFillGithub size = '3rem'/>
-        </SocialIcons>
-        <SocialIcons href = 'https://www.linkedin.com/in/babalola-muhammad-45993ab4/'>
-          <AiFillLinkedin size = '3rem'/>
-        </SocialIcons>
-        <SocialIcons href = 'https://www.instagram.com/muhammad_babalola/'>
-          <AiFillInstagram size = '3rem'/>
-        </SocialIcons>
-        <SocialIcons href = 'https://twitter.com/barmilitary'>
-          <AiFillTwitterCircle size = '3rem'/>
-        </SocialIcons>
+        <SocialContainer>
+          <SocialIcons href = 'https://github.com/movelop'>
+            <AiFillGithub size = '3rem'/>
+          </SocialIcons>
+          <SocialIcons href = 'https://www.linkedin.com/in/babalola-muhammad-45993ab4/'>
+            <AiFillLinkedin size = '3rem'/>
+          </SocialIcons>
+          <SocialIcons href = 'https://www.instagram.com/muhammad_babalola/'>
+            <AiFillInstagram size = '3rem'/>
+          </SocialIcons>
+          <SocialIcons href = 'https://twitter.com/barmilitary'>
+            <AiFillTwitterCircle size = '3rem'/>
+          </SocialIcons>
         </SocialContainer>
+      </SocialIconsContainer>
     </FooterWrapper>
   );
 };

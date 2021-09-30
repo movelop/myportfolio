@@ -4,11 +4,11 @@ import Footer from '../components/Footer/Footer'
 import Header from '../components/Header/Header'
 import { Container } from './LayoutStyles'
 
-export const Layout = () => {
+export const Layout = ({children}) => {
   return (
     <Container>
      <Header/>
-     <main>Babalola Muhammad || Web Developer</main> 
+     <main>{children}</main> 
      <Footer/>
     </Container>
   )

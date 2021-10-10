@@ -27,13 +27,13 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Robofam',
-    description: "Made this while playing with APIs and React.js, it was fun building this.",
+    title: 'Med-Plus',
+    description: "A realtime chat app created with React on the front end, NodeJS on the back end and the entire chat is powered with Stream chat",
       image: '/images/4.png',
-      tags: ['React', 'Javascript API', 'React'],
-    source: 'https://github.com/movelop/robofam',
-    visit: 'https://movelop.github.io/robofam/',
-    id: 2,
+      tags: ['React', 'Stream Chat', 'Node'],
+    source: 'https://github.com/movelop/med-plus-client',
+    visit: 'https://med-plus.netlify.app/',
+    id: 3,
   },
 ];
 

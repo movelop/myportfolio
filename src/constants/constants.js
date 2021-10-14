@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://med-plus.netlify.app/',
     id: 3,
   },
+  {
+    title: 'Crypto-world',
+    description: "An app created using React, Redux and multiple Api from RapidApi. The app gives crypto enthusiast insight into the world of cryptocurrencies, the various currency available and details, exchanges and latest news in the world of crypto.",
+      image: '/images/5.png',
+      tags: ['React', 'RapidApi-CoinRanking-Api', 'RapidApi-Bing-News-Search-Api', 'Redux'],
+    source: 'https://github.com/movelop/crypto-world',
+    visit: 'https://crypto-world-app.netlify.app/',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [

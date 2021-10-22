@@ -42,7 +42,16 @@ export const projects = [
       tags: ['React', 'RapidApi-CoinRanking-Api', 'RapidApi-Bing-News-Search-Api', 'Redux'],
     source: 'https://github.com/movelop/crypto-world',
     visit: 'https://crypto-world-app.netlify.app/',
-    id: 3,
+    id: 4,
+  },
+  {
+    title: 'Expense Tracker',
+    description: "A react app that helps with tracking of incomes and expenses, it is powered by Speechly.",
+      image: '/images/6.png',
+      tags: ['React', 'Speechly'],
+    source: 'https://github.com/movelop/expense-tracker',
+    visit: 'https://budgets-expenses.netlify.app/',
+    id: 5,
   },
 ];
 

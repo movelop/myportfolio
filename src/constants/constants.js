@@ -61,7 +61,7 @@ export const TimeLineData = [
 ];
 
 export const data = [
-  { number: 10, text: 'Projects'},
+  { number: 20, text: 'Projects'},
   { number: 1000, text: 'Twitter Followers', },
   { number: 100, text: 'LinkedIn Connections', },
 ];

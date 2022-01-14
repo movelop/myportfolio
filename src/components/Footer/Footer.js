@@ -22,16 +22,16 @@ const Footer = () => {
           <Slogan>Tech solutions made easy</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href = 'https://github.com/movelop'>
+          <SocialIcons href = 'https://github.com/movelop' target = '_blank'>
             <AiFillGithub size = '3rem'/>
           </SocialIcons>
-          <SocialIcons href = 'https://www.linkedin.com/in/babalola-muhammad-45993ab4/'>
+          <SocialIcons href = 'https://www.linkedin.com/in/babalola-muhammad-45993ab4/' target='_blank'>
             <AiFillLinkedin size = '3rem'/>
           </SocialIcons>
-          <SocialIcons href = 'https://www.instagram.com/muhammad_babalola/'>
+          <SocialIcons href = 'https://www.instagram.com/muhammad_babalola/' target='_blank'>
             <AiFillInstagram size = '3rem'/>
           </SocialIcons>
-          <SocialIcons href = 'https://twitter.com/barmilitary'>
+          <SocialIcons href = 'https://twitter.com/barmilitary' target='_blank'>
             <AiFillTwitterCircle size = '3rem'/>
           </SocialIcons>
         </SocialContainer>

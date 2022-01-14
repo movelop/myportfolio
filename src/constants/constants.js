@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Smart',
-    description:"Smart-guy app is a web application that uses clarifai API for face detection. It also allow users to register and signin. I used React js node js express js knex js and postgresSQL",
+    title: 'P-socials',
+    description:"P-socials is a social media web app that allows users share image of every form. A user can save and download images shared by other users",
     image: '/images/2.png',
-    tags: ['React', 'Node', 'Express',"Knex"],
-    source: 'https://github.com/movelop/smart-brain',
-    visit: 'https://smart-guy.herokuapp.com/',
+    tags: ['React', 'Sanity.io'],
+    source: 'https://github.com/movelop/p-socials_client',
+    visit: 'https://psocials.netlify.app',
     id: 1,
   },
   {

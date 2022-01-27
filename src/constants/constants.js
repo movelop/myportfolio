@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Med-Plus',
-    description: "A realtime chat app created with React on the front end, NodeJS on the back end and the entire chat is powered with Stream chat",
+    title: 'House Hunter',
+    description: "A Real Estate web application create with React and Next js using Bayut api from Rapid Api to showcase Properties available for rent and purchase in United Arab Emirate",
       image: '/images/4.png',
-      tags: ['React', 'Stream Chat', 'Node'],
-    source: 'https://github.com/movelop/med-plus-client',
-    visit: 'https://med-plus.netlify.app/',
+      tags: ['React', 'Next js', 'Chakra ui', 'Bayut API'],
+    source: 'https://github.com/movelop/real-estate',
+    visit: 'https://househunterdubai.vercel.app/',
     id: 3,
   },
   {
